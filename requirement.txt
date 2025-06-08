@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+matplotlib
+numpy
+pywt
+scikit-image
+zipfile
+os
+cv2
+pandas
+joblib
