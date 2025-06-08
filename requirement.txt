@@ -9,3 +9,10 @@ os
 cv2
 pandas
 joblib
+matplotlib.pyplot
+skimage.transform 
+skimage.io
+sklearn
+sklearn.svm
+sklearn.model_selection
+sklearn.metrics
